@@ -1,0 +1,6 @@
+data/
+data/ds000224/
+data/fmriprep_output/
+scripts/.ipynb_checkpoints/
+.ipynb_checkpoints/
+plots/
