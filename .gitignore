@@ -5,3 +5,9 @@ scripts/.ipynb_checkpoints/
 .ipynb_checkpoints/
 plots/
 scripts/datasets/
+*.nii
+*.nii.gz
+*.parquet
+*.csv
+logs/
+scripts/iframe_figures/
