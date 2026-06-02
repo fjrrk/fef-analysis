@@ -1,0 +1,12 @@
+{
+    "data_dir": "data/fmriprep_output/derivatives",
+    "subj_prefix": "sub-MSC",
+    "sess_prefix": "ses-func",
+    "task_label": "task-memoryscenes",
+    "space_label": "space-MNI152NLin2009cAsym",
+    "skull_stripped_suffix": "desc-skull_stripped_preproc_bold.nii.gz",
+    "probseg_space": "space-MNI152NLin2009cAsym",
+    "data_output_dir": "worktable/datasets/tissue_studies",
+    "default_threshold": 0.85,
+    "default_num_seeds": 500
+}

@@ -1,13 +1,13 @@
 data/
 data/ds000224/
 data/fmriprep_output/
-scripts/.ipynb_checkpoints/
+worktable/.ipynb_checkpoints/
 .ipynb_checkpoints/
 plots/
-scripts/datasets/
+worktable/datasets/
 *.nii
 *.nii.gz
 *.parquet
 *.csv
 logs/
-scripts/iframe_figures/
+worktable/iframe_figures/
